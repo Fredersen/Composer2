@@ -1,0 +1,10 @@
+{
+    "name": "naim/quete_composer",
+    "description": "Projet quete composer",
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    },
+    "require": {}
+}
